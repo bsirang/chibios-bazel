@@ -1,0 +1,4 @@
+# Bazel things
+bazel-*
+.cache
+
